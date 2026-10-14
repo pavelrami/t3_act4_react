@@ -1,0 +1,38 @@
+PASOS RAPIDOS
+=============
+
+1. Descomprime la carpeta t3_act4_react.
+2. Abre la carpeta en VS Code.
+3. Abre una terminal en la carpeta y ejecuta:
+
+   npm install
+   npm run dev
+
+4. Crea en GitHub un repositorio llamado exactamente:
+
+   t3_act4_react
+
+5. Desde Git Bash, dentro de la carpeta del proyecto, ejecuta:
+
+   git init
+   git add .
+   git commit -m "Actividad React"
+   git branch -M main
+   git remote add origin https://github.com/pavelrami/t3_act4_react.git
+   git push -u origin main
+
+6. Para publicar en GitHub Pages ejecuta:
+
+   npm run deploy
+
+7. En GitHub entra a:
+
+   Settings > Pages
+
+   Source: Deploy from a branch
+   Branch: gh-pages
+   Folder: /(root)
+
+8. Tu sitio debe quedar en:
+
+   https://pavelrami.github.io/t3_act4_react/
