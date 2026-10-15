@@ -11,9 +11,9 @@ function App() {
 
       <main className="container">
         <ProfileCard
-          nombre="Janet López"
+          nombre="Carlos Pavel León Ramírez"
           carrera="Ingeniería en Sistemas Computacionales"
-          materia="Desarrollo Web"
+          materia="Programación Web"
         />
 
         <div className="grid">
