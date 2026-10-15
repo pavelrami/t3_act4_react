@@ -11,9 +11,15 @@ function App() {
 
       <main className="container">
         <ProfileCard
+<<<<<<< HEAD
           nombre="Carlos Pavel León Ramírez"
           carrera="Ingeniería en Sistemas Computacionales"
           materia="Programación Web"
+=======
+          nombre="Carlos Pavel León Ramirez"
+          carrera="Ingeniería en Sistemas Computacionales"
+          materia="Programacion Web"
+>>>>>>> 8541a88 (Implementa .gitignore en proyecto React)
         />
 
         <div className="grid">
